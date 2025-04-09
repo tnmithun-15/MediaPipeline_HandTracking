@@ -32,3 +32,8 @@ mp.solutions.drawing_styles – for customizable drawing styles.
 before Running the Code , install the neccessary Modules 
 pip install opencv-python
 pip install mediapipe
+
+![Screenshot 2025-04-09 213850](https://github.com/user-attachments/assets/04a63758-f088-4e8d-ac86-2079b9f2a8e1)
+
+![Screenshot 2025-04-09 213902](https://github.com/user-attachments/assets/c65cfeb2-95d3-4bc6-b6e3-09343e9b70da)
+
